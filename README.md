@@ -2,6 +2,6 @@
 Repository test MSC Academy
 
 QUALCOSA
-Qualcosa.*.
+Qualcosa...
 
-Ciao
+Git è molto divertente
