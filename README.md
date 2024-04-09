@@ -2,5 +2,8 @@
 Repository test MSC Academy
 
 QUALCOSA
-Qualcosa.*.
+Qualcosa...
 
+Git è molto divertente
+
+Persona onesta
